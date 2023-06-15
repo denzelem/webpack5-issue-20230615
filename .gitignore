@@ -1,0 +1,16 @@
+/node_modules
+/public/assets
+/tmp/*
+
+/.idea
+.byebug_history
+.DS_Store
+.irbrc
+rerun.txt
+yarn-error.log
+
+*~
+*#*
+.#*
+.~lock.*
+.*.swp

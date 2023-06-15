@@ -1,0 +1,18 @@
+{
+  "name": "webpack5-issue-20230615",
+  "private": "true",
+  "scripts": {
+    "build": "webpack --config webpack.config.js"
+  },
+  "dependencies": {
+    "sass": "x",
+    "webpack": "x",
+    "webpack-cli": "x"
+  },
+  "devDependencies": {
+    "css-loader": "x",
+    "sass-loader": "x",
+    "style-loader": "x",
+    "mini-css-extract-plugin": "x"
+  }
+}
